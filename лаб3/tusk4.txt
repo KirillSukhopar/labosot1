@@ -1,0 +1,2503 @@
+Каталог: C:\Windows\WinSxS\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_4ab2cf
+    91d9991cd9
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.
+    0.15912.0_none_34e75507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:16          22500 aspdotnet_logo.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948b
+    decbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_0305
+    98bac51cf3d3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e7
+    5507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.2
+    6100.1_none_52fef079cc9e9f43
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51          22500 aspdotnet_logo.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.
+    15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:15          22500 aspdotnet_logo.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0
+    .26100.1_none_0b51b9a2b822763d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51          22500 aspdotnet_logo.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2022     23:18          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22          22500 ASPdotNET_logo.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-boottocloud-windows365-app_31bf3856ad364e35_10.0.2610
+    0.6899_none_c0ea09fb113ed6ef\n\nxtwebapps\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        06.09.2024      2:03        2315887 background-wallpaper-light.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-app-resources_31bf3856ad364e35_10.0.26100.6725_none_7
+    117c86fae483622\n\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        06.09.2024      2:03        2315887 background-wallpaper-light.jpg
+------        17.09.2024     21:14         199845 background-wallpaper-light-cpc-card.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-boottocloud-windows365-app_31bf3856ad364e35_10.0.2610
+    0.6899_none_c0ea09fb113ed6ef\n\nxtwebapps\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        17.09.2024     21:14         199845 background-wallpaper-light-cpc-card.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-app-resources_31bf3856ad364e35_10.0.26100.6725_none_7
+    117c86fae483622\n\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        17.09.2024     21:14         119822 background-wallpaper-light-mica.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-boottocloud-windows365-app_31bf3856ad364e35_10.0.2610
+    0.6899_none_c0ea09fb113ed6ef\n\nxtwebapps\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        17.09.2024     21:14         119822 background-wallpaper-light-mica.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-app-resources_31bf3856ad364e35_10.0.26100.6725_none_7
+    117c86fae483622\n\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        21.11.2024     22:56         628827 background-wallpaper-loading.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-boottocloud-windows365-app_31bf3856ad364e35_10.0.2610
+    0.6899_none_c0ea09fb113ed6ef\n\nxtwebapps\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        21.11.2024     22:56         628827 background-wallpaper-loading.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_tsportalwebpart_31bf3856ad364e35_10.0.26100.5074_none_d089bf949f7b8
+    5b9\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        15.09.2024      2:17            108 banner_01.jpg
+------        15.09.2024      2:17            108 banner_02.jpg
+------        15.09.2024      2:17            107 bar_03.jpg
+------        15.09.2024      2:17            109 bg_globe_01.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-aix_31bf3856ad364e35_10.0.26100.6899_none_3ad1efa277
+    09e0f7\n\aix\recall\assets
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024     23:02          50427 consent_background_dark.jpg
+------        16.08.2024     23:02          51631 consent_background_light.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\CBS\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48         385462 copilot-upsell.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb6a1
+    f2187be97\f\photon\public\wsxpacks\account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:59            110 copilot-upsell.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Public\wsxpacks\Account\asse
+    ts\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48         385462 copilot-upsell.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\n\CBS\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39         381574 copilot-upsell.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-photon_31bf3856ad364e35_10.0.26100.1591_none_faf85d9
+    f2170dfcf\f\photon\public\wsxpacks\account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:59            110 copilot-upsell.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.2
+    6100.1_none_52fef079cc9e9f43
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51           8260 darkblue_grad.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948b
+    decbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_0305
+    98bac51cf3d3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.
+    15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:15           8260 darkblue_grad.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0
+    .26100.1_none_0b51b9a2b822763d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51           8260 darkblue_grad.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.
+    0.15912.0_none_34e75507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:16           8260 darkblue_grad.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2022     23:18           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e7
+    5507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_4ab2cf
+    91d9991cd9
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22           8260 darkBlue_GRAD.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Lenovo
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2021      8:58         640745 deserts.jpg
+-a----        04.01.2021      8:58        1689906 Diwali.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.5074
+    _none_b1b23ae0335ad5f0\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:29            106 dmr_120.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.5074
+    _none_a75d908dfefa13f5\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:29            106 dmr_120.jpg
+
+
+    Каталог: C:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.22621.5415_
+    none_f5a4bfb8ff10decb
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.05.2022     20:37           2979 DMR_120.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.1455
+    _none_a73031e9ff1c7610\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:29            106 dmr_120.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.22621.5415_
+    none_eb501566cab01cd0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        06.05.2022     16:06           2979 DMR_120.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.1455
+    _none_b184dc3c337d380b\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:29            106 dmr_120.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    MediaPlayer-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10
+    .0.26100.1_none_085d6b7fb7a6541a
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:50           2979 dmr_120.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    MediaPlayer-Package~~wow64~~10.0.26100.1\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10
+    .0.26100.1_none_12b215d1ec071615
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51           2979 dmr_120.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.22621.5415_
+    none_eb501566cab01cd0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        06.05.2022     16:03           1220 DMR_48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.1455
+    _none_a73031e9ff1c7610\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:28            106 dmr_48.jpg
+
+
+    Каталог: C:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.22621.5415_
+    none_f5a4bfb8ff10decb
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.05.2022     20:34           1220 DMR_48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.5074
+    _none_a75d908dfefa13f5\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:28            106 dmr_48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    MediaPlayer-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10
+    .0.26100.1_none_085d6b7fb7a6541a
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:47           1220 dmr_48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    MediaPlayer-Package~~wow64~~10.0.26100.1\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10
+    .0.26100.1_none_12b215d1ec071615
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48           1220 dmr_48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.5074
+    _none_b1b23ae0335ad5f0\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:28            106 dmr_48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.1455
+    _none_b184dc3c337d380b\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:28            106 dmr_48.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          53427 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          53427 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          27588 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          27302 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          53529 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          53427 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          27588 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          53427 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          53529 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          53529 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          53427 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          53427 GalleryColdStateLeft.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          43712 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44235 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44235 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44445 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44235 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          43712 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44235 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\A
+    ssets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44235 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44235 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          44244 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          44445 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-fileexp_31bf3856ad364e35_10.0.22621.5840_none_30ff8d5
+    70f74ccb7\n\FileExp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          43712 GalleryColdStateRight.jpg
+
+
+    Каталог: C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_5e7dc1ecd937f477\NvCamera
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        15.03.2025      2:58         281528 GreenScreenBG01.jpg
+-a----        15.03.2025      2:58         499736 GreenScreenBG02.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e7
+    5507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20           1409 help.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_0305
+    98bac51cf3d3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           1409 help.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948b
+    decbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20           1409 help.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22           1409 help.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.
+    0.15912.0_none_34e75507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:16           1409 help.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2022     23:18           1409 help.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0
+    .26100.1_none_0b51b9a2b822763d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51           1409 help.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.
+    15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:15           1409 help.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_4ab2cf
+    91d9991cd9
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           1409 help.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           1409 help.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.2
+    6100.1_none_52fef079cc9e9f43
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51           1409 help.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22           1409 help.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Lenovo
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2021      8:58         793149 Heritage.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionSpecific-Core-Package~~amd64~~10.0.26100.1\amd64_userexperience-desktop_31bf3856ad364e35_10.0.
+    26100.1_none_294994b8d2d6c81e\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      7:32        2791601 image_0.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e7
+    7f1a5104dd\f\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            111 image_0.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48        2791601 image_0.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3
+    ff1a67e3a5\n\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:57        2791703 image_0.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\n\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39        2800649 image_0.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Imag
+    es
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48        2791601 image_0.jpg
+-a----        05.07.2024     18:48        2136665 image_1.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionSpecific-Core-Package~~amd64~~10.0.26100.1\amd64_userexperience-desktop_31bf3856ad364e35_10.0.
+    26100.1_none_294994b8d2d6c81e\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      7:32        2136665 image_1.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48        2136665 image_1.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e7
+    7f1a5104dd\f\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            111 image_1.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3
+    ff1a67e3a5\n\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:57        2090314 image_1.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\n\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39        2090290 image_1.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3
+    ff1a67e3a5\n\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:57        1210610 image_2.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Imag
+    es
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48        1860845 image_2.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48        1860845 image_2.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\n\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39        1239352 image_2.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e7
+    7f1a5104dd\f\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            110 image_2.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionSpecific-Core-Package~~amd64~~10.0.26100.1\amd64_userexperience-desktop_31bf3856ad364e35_10.0.
+    26100.1_none_294994b8d2d6c81e\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      7:32        1860845 image_2.jpg
+-a----        01.04.2024      7:32        1945591 image_3.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Imag
+    es
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48        1945591 image_3.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e7
+    7f1a5104dd\f\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            110 image_3.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3
+    ff1a67e3a5\n\cbs\desktopspotlight\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:57        1908158 image_3.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\n\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39        1908134 image_3.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\CBS\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48        1945591 image_3.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-s..l-wallpaper-windows_31bf3856a
+    d364e35_10.0.26100.1_none_d805ce9518fe5964
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1602752 img0.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1602752 img0.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-s..l-wallpaper-windows_31bf3856ad364e35_10.0.22621
+    .1_none_3ca7f1e8a42fef1e
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1602752 img0.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-s..paper-windows-crops_31bf3856ad364e35_10.0.22621
+    .1_none_f27cd42a1367d3e0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         542091 img0_1920x1200.jpg
+
+
+    Каталог: C:\Windows\Web\4K\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         542091 img0_1920x1200.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-s..paper-windows-crops_31bf3856a
+    d364e35_10.0.26100.1_none_8ddab0d688363e26
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         542091 img0_1920x1200.jpg
+
+
+    Каталог: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19        1033330 img100.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.22621
+    .1_none_3eac8f47ed2fed2f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19        1033330 img100.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..nbackgrounds-client_3
+    1bf3856ad364e35_10.0.26100.1_none_da0a6bf461fe5775
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55        1033330 img100.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.22621
+    .1_none_3eac8f47ed2fed2f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         833851 img101.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..nbackgrounds-client_3
+    1bf3856ad364e35_10.0.26100.1_none_da0a6bf461fe5775
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         833851 img101.jpg
+
+
+    Каталог: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         833851 img101.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.22621
+    .1_none_3eac8f47ed2fed2f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19        1389605 img102.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..nbackgrounds-client_3
+    1bf3856ad364e35_10.0.26100.1_none_da0a6bf461fe5775
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55        1389605 img102.jpg
+
+
+    Каталог: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19        1389605 img102.jpg
+-a----        07.05.2022      8:19        1073197 img103.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..nbackgrounds-client_3
+    1bf3856ad364e35_10.0.26100.1_none_da0a6bf461fe5775
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55        1073197 img103.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.22621
+    .1_none_3eac8f47ed2fed2f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19        1073197 img103.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..nbackgrounds-client_3
+    1bf3856ad364e35_10.0.26100.1_none_da0a6bf461fe5775
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         680031 img104.jpg
+
+
+    Каталог: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         680031 img104.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.22621
+    .1_none_3eac8f47ed2fed2f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         680031 img104.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..nbackgrounds-client_3
+    1bf3856ad364e35_10.0.26100.1_none_da0a6bf461fe5775
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55          36632 img105.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.22621
+    .1_none_3eac8f47ed2fed2f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19          36632 img105.jpg
+
+
+    Каталог: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19          36632 img105.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Spotlight
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1602752 img14.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-s..wallpaper-spotlight_31bf3856ad364e35_10.0.22621
+    .5262_none_21fd01d4461efe59
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1602752 img14.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-s..wallpaper-spotlight_31bf3856a
+    d364e35_10.0.26100.1_none_3eef724b332a3bb5
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1602752 img14.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-s..l-wallpaper-windows_31bf3856a
+    d364e35_10.0.26100.1_none_d805ce9518fe5964
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1383556 img19.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-s..l-wallpaper-windows_31bf3856ad364e35_10.0.22621
+    .1_none_3ca7f1e8a42fef1e
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1383556 img19.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1383556 img19.jpg
+
+
+    Каталог: C:\Windows\Web\4K\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         518265 img19_1920x1200.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-s..paper-windows-crops_31bf3856ad364e35_10.0.22621
+    .1_none_f27cd42a1367d3e0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         518265 img19_1920x1200.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-s..paper-windows-crops_31bf3856a
+    d364e35_10.0.26100.1_none_8ddab0d688363e26
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         518265 img19_1920x1200.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeA
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         826734 img20.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themea_31bf3856a
+    d364e35_10.0.26100.1_none_d3c965ed0d7f5b0d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         826734 img20.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themea_31bf3856ad364e35_10.0.22621
+    .1_none_386b894098b0f0c7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         826734 img20.jpg
+-a----        07.05.2022      8:20         833851 img21.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themea_31bf3856a
+    d364e35_10.0.26100.1_none_d3c965ed0d7f5b0d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         833851 img21.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeA
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         833851 img21.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themea_31bf3856ad364e35_10.0.22621
+    .1_none_386b894098b0f0c7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         760748 img22.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themea_31bf3856a
+    d364e35_10.0.26100.1_none_d3c965ed0d7f5b0d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         760748 img22.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeA
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         760748 img22.jpg
+-a----        07.05.2022      8:20         907112 img23.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themea_31bf3856ad364e35_10.0.22621
+    .1_none_386b894098b0f0c7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         907112 img23.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themea_31bf3856a
+    d364e35_10.0.26100.1_none_d3c965ed0d7f5b0d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         907112 img23.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856a
+    d364e35_10.0.26100.1_none_d3c94f250d7f74ae
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1150704 img24.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeB
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1150704 img24.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856ad364e35_10.0.22621
+    .1_none_386b727898b10a68
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1150704 img24.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeB
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1019877 img25.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856a
+    d364e35_10.0.26100.1_none_d3c94f250d7f74ae
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1019877 img25.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856ad364e35_10.0.22621
+    .1_none_386b727898b10a68
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1019877 img25.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeB
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         985873 img26.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856a
+    d364e35_10.0.26100.1_none_d3c94f250d7f74ae
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48         985873 img26.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856ad364e35_10.0.22621
+    .1_none_386b727898b10a68
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         985873 img26.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856a
+    d364e35_10.0.26100.1_none_d3c94f250d7f74ae
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1060216 img27.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themeb_31bf3856ad364e35_10.0.22621
+    .1_none_386b727898b10a68
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1060216 img27.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeB
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1060216 img27.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.22621
+    .1_none_386b5bb098b12409
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1111289 img28.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856a
+    d364e35_10.0.26100.1_none_d3c9385d0d7f8e4f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1111289 img28.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeC
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1111289 img28.jpg
+-a----        07.05.2022      8:20        1221892 img29.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.22621
+    .1_none_386b5bb098b12409
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1221892 img29.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856a
+    d364e35_10.0.26100.1_none_d3c9385d0d7f8e4f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1221892 img29.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeC
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1068913 img30.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856a
+    d364e35_10.0.26100.1_none_d3c9385d0d7f8e4f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1068913 img30.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.22621
+    .1_none_386b5bb098b12409
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1068913 img30.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856a
+    d364e35_10.0.26100.1_none_d3c9385d0d7f8e4f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1156806 img31.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.22621
+    .1_none_386b5bb098b12409
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1156806 img31.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeC
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1156806 img31.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeD
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1077710 img32.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themed_31bf3856a
+    d364e35_10.0.26100.1_none_d3c921950d7fa7f0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1077710 img32.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themed_31bf3856ad364e35_10.0.22621
+    .1_none_386b44e898b13daa
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1077710 img32.jpg
+-a----        07.05.2022      8:20        1076822 img33.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeD
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1076822 img33.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themed_31bf3856a
+    d364e35_10.0.26100.1_none_d3c921950d7fa7f0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1076822 img33.jpg
+-a----        28.03.2024     22:48         989305 img34.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themed_31bf3856ad364e35_10.0.22621
+    .1_none_386b44e898b13daa
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         989305 img34.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\ThemeD
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20         989305 img34.jpg
+-a----        07.05.2022      8:20        1087653 img35.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-shell-wallpaper-themed_31bf3856ad364e35_10.0.22621
+    .1_none_386b44e898b13daa
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20        1087653 img35.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-shell-wallpaper-themed_31bf3856a
+    d364e35_10.0.26100.1_none_d3c921950d7fa7f0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48        1087653 img35.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Features-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-s..wallpaper-spotlight_31bf3856a
+    d364e35_10.0.26100.1_none_3eef724b332a3bb5
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:48          23615 img50.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-s..wallpaper-spotlight_31bf3856ad364e35_10.0.22621
+    .5262_none_21fd01d4461efe59\n
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          23031 img50.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Spotlight
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:50          23615 img50.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-s..wallpaper-spotlight_31bf3856ad364e35_10.0.22621
+    .5262_none_21fd01d4461efe59
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:50          23615 img50.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Lenovo
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2021      8:58        1289280 jungle.jpg
+-a----        04.01.2021      8:58        1004364 LenovoWallPaper.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-app-resources_31bf3856ad364e35_10.0.26100.1591_none_7
+    134bbefae31575a\f\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:31            110 nxt-boot-to-cloud-multi-cpc-wallpaper-2424x1474-optimiz
+                                                  ed.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-boottocloud-windows365-app_31bf3856ad364e35_10.0.2610
+    0.1591_none_c10b26811125c451\f\nxtwebapps\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:31            110 nxt-boot-to-cloud-multi-cpc-wallpaper-2424x1474-optimiz
+                                                  ed.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-app-resources_31bf3856ad364e35_10.0.26100.1591_none_7
+    134bbefae31575a\f\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:52            110 nxt-wallpager-dark.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-boottocloud-windows365-app_31bf3856ad364e35_10.0.2610
+    0.1591_none_c10b26811125c451\f\nxtwebapps\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:52            110 nxt-wallpager-dark.jpg
+------        16.08.2024      6:31            111 nxt-wallpager-light.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-nxt-app-resources_31bf3856ad364e35_10.0.26100.1591_none_7
+    134bbefae31575a\f\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:31            111 nxt-wallpager-light.jpg
+
+
+    Каталог: C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_5e7dc1ecd937f477\NvCamera
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        15.03.2025      2:58         346354 scratches.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.2
+    6100.1_none_52fef079cc9e9f43
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948b
+    decbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_0305
+    98bac51cf3d3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e7
+    5507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.
+    15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:15             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_4ab2cf
+    91d9991cd9
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0
+    .26100.1_none_0b51b9a2b822763d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2022     23:18             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.
+    0.15912.0_none_34e75507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:16             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22             49 security_watermark.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_0305
+    98bac51cf3d3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.22621.1_none_4ab2cf
+    91d9991cd9
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e7
+    5507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2022     23:18           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:22           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:01           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.2
+    6100.1_none_52fef079cc9e9f43
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51           8683 topgradrepeat.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    NetFx3-OnDemand-Package~~amd64~~10.0.26100.1\amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0
+    .26100.1_none_0b51b9a2b822763d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:51           8683 topgradrepeat.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.
+    15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:15           8683 topgradrepeat.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    EditionPack-Core-Package~~amd64~~10.0.26100.1\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.
+    0.15912.0_none_34e75507b760b6ac
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.04.2024      1:16           8683 topgradrepeat.jpg
+
+
+    Каталог: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948b
+    decbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:20           8683 topGradRepeat.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..ouchkeyboard-client_3
+    1bf3856ad364e35_10.0.26100.1_none_800b777e2c1b772d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         433484 touchkeyboardthemedark000.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.22621
+    .1_none_e4ad9ad1b74d0ce7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         433484 TouchKeyboardThemeDark000.jpg
+
+
+    Каталог: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         433484 TouchKeyboardThemeDark000.jpg
+-a----        07.05.2022      8:19         149335 TouchKeyboardThemeDark001.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.22621
+    .1_none_e4ad9ad1b74d0ce7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         149335 TouchKeyboardThemeDark001.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..ouchkeyboard-client_3
+    1bf3856ad364e35_10.0.26100.1_none_800b777e2c1b772d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         149335 touchkeyboardthemedark001.jpg
+
+
+    Каталог: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         216674 TouchKeyboardThemeDark002.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..ouchkeyboard-client_3
+    1bf3856ad364e35_10.0.26100.1_none_800b777e2c1b772d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         216674 touchkeyboardthemedark002.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.22621
+    .1_none_e4ad9ad1b74d0ce7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         216674 TouchKeyboardThemeDark002.jpg
+-a----        07.05.2022      8:19         122749 TouchKeyboardThemeDark003.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..ouchkeyboard-client_3
+    1bf3856ad364e35_10.0.26100.1_none_800b777e2c1b772d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         122749 touchkeyboardthemedark003.jpg
+
+
+    Каталог: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         122749 TouchKeyboardThemeDark003.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..ouchkeyboard-client_3
+    1bf3856ad364e35_10.0.26100.1_none_800b777e2c1b772d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         584174 touchkeyboardthemelight000.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.22621
+    .1_none_e4ad9ad1b74d0ce7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         584174 TouchKeyboardThemeLight000.jpg
+
+
+    Каталог: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         584174 TouchKeyboardThemeLight000.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.22621
+    .1_none_e4ad9ad1b74d0ce7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         155595 TouchKeyboardThemeLight001.jpg
+
+
+    Каталог: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         155595 TouchKeyboardThemeLight001.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..ouchkeyboard-client_3
+    1bf3856ad364e35_10.0.26100.1_none_800b777e2c1b772d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         155595 touchkeyboardthemelight001.jpg
+-a----        28.03.2024     22:55         241590 touchkeyboardthemelight002.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.22621
+    .1_none_e4ad9ad1b74d0ce7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         241590 TouchKeyboardThemeLight002.jpg
+
+
+    Каталог: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         241590 TouchKeyboardThemeLight002.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.22621
+    .1_none_e4ad9ad1b74d0ce7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         120795 TouchKeyboardThemeLight003.jpg
+
+
+    Каталог: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        07.05.2022      8:19         120795 TouchKeyboardThemeLight003.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Client-Desktop-Required-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-t..ouchkeyboard-client_3
+    1bf3856ad364e35_10.0.26100.1_none_800b777e2c1b772d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:55         120795 touchkeyboardthemelight003.jpg
+
+
+    Каталог: C:\Windows\Web\Wallpaper\Lenovo
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.01.2021      8:58        1036095 Valley.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-f..toragereportservice_31bf3856ad364e35_10.0.2610
+    0.3624_none_c65e5afe6566263c\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        13.09.2024      5:22            106 warning.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    Printing-WFS-FoD-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-fax-common_31bf3856ad364e35_10.
+    0.26100.1_none_08f85749b92d2220
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:54         516424 welcomescan.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-fax-common_31bf3856ad364e35_10.0.26100.1591_none_
+    a7c4aa1000a75edf\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:29            110 welcomescan.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-fax-common_31bf3856ad364e35_10.0.22621.5415_none_e
+    beb0130cc36ead6
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        09.03.2023     19:00         516424 WelcomeScan.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-fax-common_31bf3856ad364e35_10.0.26100.5074_none_
+    a7f87c580080e1fb\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      6:29            110 welcomescan.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    MediaPlayer-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0
+    .26100.1_none_007a743337203bf3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:50           4743 wmpnss_color120.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.5074_n
+    one_9f7a99417e73fbce\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        05.10.2024     21:06            107 wmpnss_color120.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.22621.2506_no
+    ne_e361316a4a33296f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        06.05.2022     16:06           4743 wmpnss_color120.jpg
+-a----        06.05.2022     16:06           1859 wmpnss_color32.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.5074_n
+    one_9f7a99417e73fbce\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        05.10.2024     21:06            106 wmpnss_color32.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    MediaPlayer-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0
+    .26100.1_none_007a743337203bf3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:50           1859 wmpnss_color32.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.22621.2506_no
+    ne_e361316a4a33296f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        06.05.2022     16:06           2320 wmpnss_color48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.5074_n
+    one_9f7a99417e73fbce\f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        05.10.2024     21:06            106 wmpnss_color48.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Microsoft-Windows-
+    MediaPlayer-Package~~amd64~~10.0.26100.1\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0
+    .26100.1_none_007a743337203bf3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28.03.2024     22:50           2320 wmpnss_color48.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Public\wsxpacks\Account\asse
+    ts\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48         897999 xbox-acquisition-upsell.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb6a1
+    f2187be97\f\photon\public\wsxpacks\account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            110 xbox-acquisition-upsell.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\CBS\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48         897999 xbox-acquisition-upsell.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\n\CBS\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39         898022 xbox-acquisition-upsell.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-photon_31bf3856ad364e35_10.0.26100.1591_none_faf85d9
+    f2170dfcf\f\photon\public\wsxpacks\account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            110 xbox-acquisition-upsell.jpg
+
+
+    Каталог: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Public\wsxpacks\Account\asse
+    ts\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          43226 xbox-inline-purchase-banner.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\CBS\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        05.07.2024     18:48          43226 xbox-inline-purchase-banner.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-photon_31bf3856ad364e35_10.0.26100.1591_none_faf85d9
+    f2170dfcf\f\photon\public\wsxpacks\account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            108 xbox-inline-purchase-banner.jpg
+
+
+    Каталог: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.5840_none_0c1471b
+    5e5fdcc78\n\CBS\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        01.06.2024      6:39          42439 xbox-inline-purchase-banner.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb6a1
+    f2187be97\f\photon\public\wsxpacks\account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        16.08.2024      4:58            108 xbox-inline-purchase-banner.jpg
+
+
+    Каталог: C:\Windows\SoftwareDistribution\Download\cd5a54e6c4bc3d2206af12c8fd40fa69\Package_for_Rollup
+    Fix~~amd64~~26100.6899.1.25\amd64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb6a1
+    f2187be97\n\photon\public\wsxpacks\account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+------        04.09.2025     20:37          42550 xbox-purchase-dialogue-banner-lotus.jpg
